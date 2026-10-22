@@ -1,0 +1,125 @@
+{
+  "source": ".local/wilds/switchaxe/natives/stm/gamedesign/text/excel_action/actionguidedatanametext_wp08.msg.23",
+  "sha256": "b4446fd77c8ee3034c33bb9c6042f03b8286c32b26f4f0a917d5cce1ecfb1a12",
+  "actions": {
+    "sa_axe_overhead": {
+      "guideActionId": 143967248,
+      "name": "ActionGuideDataNameText_Wp08_143967248",
+      "guid": "b35471d6-495b-4043-bea3-dd332f246903",
+      "en_us": "Axe: Overhead Slash",
+      "zh_cn": "斧：直斩"
+    },
+    "sa_axe_side": {
+      "guideActionId": 1338690432,
+      "name": "ActionGuideDataNameText_Wp08_1338690432",
+      "guid": "ce6849a8-a24b-4654-8ebd-b450d9adc83d",
+      "en_us": "Axe: Side Slash",
+      "zh_cn": "斧：横斩"
+    },
+    "sa_axe_rising": {
+      "guideActionId": -128645088,
+      "name": "ActionGuideDataNameText_Wp08_m128645088",
+      "guid": "dc5fd240-aff5-4226-ba66-4a33a1eacc51",
+      "en_us": "Axe: Offset Rising Slash",
+      "zh_cn": "斧：抵消上捞斩\t"
+    },
+    "sa_axe_forward": {
+      "guideActionId": 1711220352,
+      "name": "ActionGuideDataNameText_Wp08_1711220352",
+      "guid": "50961490-fcf5-4c4e-a5d7-2d8aea95de91",
+      "en_us": "Axe: Forward Overhead Slash",
+      "zh_cn": "斧：突进直斩"
+    },
+    "sa_axe_fade": {
+      "guideActionId": 1185187840,
+      "name": "ActionGuideDataNameText_Wp08_1185187840",
+      "guid": "e022c41e-f7fa-4f05-9804-8ead6ffbd31b",
+      "en_us": "Axe: Fade Slash",
+      "zh_cn": "斧：后撤斩"
+    },
+    "sa_axe_wild": {
+      "guideActionId": -1140363264,
+      "name": "ActionGuideDataNameText_Wp08_m1140363264",
+      "guid": "5dd70d9d-b805-480f-bdbb-6f15eb23fe4c",
+      "en_us": "Axe: Wild Swing",
+      "zh_cn": "斧：挥舞"
+    },
+    "sa_axe_slam": {
+      "guideActionId": -255976208,
+      "name": "ActionGuideDataNameText_Wp08_m255976208",
+      "guid": "009ddef4-7f8d-4181-b78f-5efadb9e1d57",
+      "en_us": "Axe: Heavy Slam",
+      "zh_cn": "斧：强化敲打"
+    },
+    "sa_axe_spiral": {
+      "guideActionId": 372106112,
+      "name": "ActionGuideDataNameText_Wp08_372106112",
+      "guid": "663e03ac-73cc-421d-9e91-edd72c2458ab",
+      "en_us": "Axe: Spiral Burst Slash",
+      "zh_cn": "斧：螺旋充填斩"
+    },
+    "sa_morph_sword": {
+      "guideActionId": -1209716864,
+      "name": "ActionGuideDataNameText_Wp08_m1209716864",
+      "guid": "c8fa6ee8-3ded-4431-993d-b6640ee9d698",
+      "en_us": "Axe: Morph Slash",
+      "zh_cn": "斧：变形斩"
+    },
+    "sa_morph_axe": {
+      "guideActionId": -210718064,
+      "name": "ActionGuideDataNameText_Wp08_m210718064",
+      "guid": "e5740180-f65e-4635-b290-352c313d38a5",
+      "en_us": "Sword: Morph Slash",
+      "zh_cn": "剑：变形斩"
+    },
+    "sa_sword_overhead": {
+      "guideActionId": -1084801536,
+      "name": "ActionGuideDataNameText_Wp08_m1084801536",
+      "guid": "d4b35f76-c877-4d3b-a008-1614bfedca0c",
+      "en_us": "Sword: Overhead Slash",
+      "zh_cn": "剑：直斩"
+    },
+    "sa_sword_right": {
+      "guideActionId": -553980096,
+      "name": "ActionGuideDataNameText_Wp08_m553980096",
+      "guid": "071e5d50-7056-4520-a231-40bd39a6fd34",
+      "en_us": "Sword: Right Rising Slash",
+      "zh_cn": "剑：右上捞斩"
+    },
+    "sa_sword_left": {
+      "guideActionId": 1855746432,
+      "name": "ActionGuideDataNameText_Wp08_1855746432",
+      "guid": "b4633bd0-4526-4e9d-92af-426e4bd48da2",
+      "en_us": "Sword: Left Rising Slash",
+      "zh_cn": "剑：左上捞斩"
+    },
+    "sa_sword_double": {
+      "guideActionId": 150431184,
+      "name": "ActionGuideDataNameText_Wp08_150431184",
+      "guid": "c5804b8e-512d-47c2-b065-a157fac6449b",
+      "en_us": "Sword: Double Slash",
+      "zh_cn": "剑：二连斩"
+    },
+    "sa_sword_heaven": {
+      "guideActionId": -1737891328,
+      "name": "ActionGuideDataNameText_Wp08_m1737891328",
+      "guid": "9c41f424-4d34-4e88-a8c9-35dcdd42a9f7",
+      "en_us": "Sword: Heavenward Flurry",
+      "zh_cn": "剑：飞天连击"
+    },
+    "sa_discharge": {
+      "guideActionId": 1649891712,
+      "name": "ActionGuideDataNameText_Wp08_1649891712",
+      "guid": "ba3566ba-5946-4719-b9f9-c14076a4d59b",
+      "en_us": "Unbridled Slash",
+      "zh_cn": "压缩解放斩"
+    },
+    "sa_full_release": {
+      "guideActionId": 26943142,
+      "name": "ActionGuideDataNameText_Wp08_26943142",
+      "guid": "3d0c8934-b44e-4640-bae7-834f219e785d",
+      "en_us": "Full Release Slash",
+      "zh_cn": "全解放斩"
+    }
+  }
+}

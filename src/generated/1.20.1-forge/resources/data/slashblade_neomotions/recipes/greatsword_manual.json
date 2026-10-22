@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "minecraft:iron_block"
+    },
+    {
+      "item": "slashblade:proudsoul"
+    }
+  ],
+  "result": {
+    "item": "slashblade_neomotions:greatsword_manual"
+  }
+}

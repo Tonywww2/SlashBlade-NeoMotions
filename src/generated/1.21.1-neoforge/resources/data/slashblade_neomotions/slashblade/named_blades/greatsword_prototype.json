@@ -1,0 +1,19 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:unbreaking"
+    }
+  ],
+  "name": "slashblade_neomotions:greatsword_prototype",
+  "properties": {
+    "attack_base": 6.0,
+    "max_damage": 600,
+    "root_combo": "slashblade_neomotions:greatsword",
+    "slash_art": "slashblade:drive_vertical"
+  },
+  "render": {
+    "model": "slashblade_neomotions:model/greatsword_prototype.obj",
+    "summon_sword_color": 10336719,
+    "texture": "slashblade_neomotions:model/prototype_metal.png"
+  }
+}

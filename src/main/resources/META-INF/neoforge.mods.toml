@@ -1,0 +1,34 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+[[mods]]
+modId="slashblade_neomotions"
+version="${version}"
+displayName="SlashBlade: NeoMotions"
+authors="Tonywww"
+description='''Selectable Great Sword and blade-and-sheath Dual Blade combo trees for SlashBlade: Resharped.'''
+[[dependencies.slashblade_neomotions]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.233,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.slashblade_neomotions]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.21.2)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.slashblade_neomotions]]
+modId="slashblade"
+type="required"
+versionRange="[2.1.9-1.21.1,2.2)"
+ordering="AFTER"
+side="BOTH"
+[[dependencies.slashblade_neomotions]]
+modId="playeranimator"
+type="required"
+versionRange="[2.0.4,3)"
+ordering="AFTER"
+side="BOTH"
+

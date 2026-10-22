@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "minecraft:iron_axe"
+    },
+    {
+      "item": "slashblade:proudsoul"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "slashblade_neomotions:switchaxe_manual"
+  }
+}

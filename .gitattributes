@@ -1,0 +1,10 @@
+* text=auto
+*.java text eol=lf
+*.kts text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+gradlew text eol=lf
+*.bat text eol=crlf
+*.vmd binary
+*.png binary
+

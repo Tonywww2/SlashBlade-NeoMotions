@@ -1,0 +1,18 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:unbreaking"
+    }
+  ],
+  "name": "slashblade_neomotions:dualblade_prototype",
+  "properties": {
+    "max_damage": 400,
+    "root_combo": "slashblade_neomotions:dualblade",
+    "slash_art": "slashblade:circle_slash"
+  },
+  "render": {
+    "model": "slashblade_neomotions:model/dualblade_prototype.obj",
+    "summon_sword_color": 13544296,
+    "texture": "slashblade_neomotions:model/prototype_metal.png"
+  }
+}

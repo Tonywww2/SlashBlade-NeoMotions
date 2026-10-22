@@ -1,0 +1,8 @@
+# Copy these settings into your game instance's config/slashblade_neomotions-client.toml.
+# 设为 true 后，在快捷栏上方显示当前招式、动作阶段、进度及蓄力／SA 信息。
+# 默认 false；此选项仅影响本客户端的提示文字。
+[hud]
+showMoveInfo = false
+
+# 斩斧双槽 HUD，独立于招式文字；默认显示。
+showWeaponGauges = true

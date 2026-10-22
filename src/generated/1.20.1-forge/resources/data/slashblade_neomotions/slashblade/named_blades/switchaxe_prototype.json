@@ -1,0 +1,19 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:unbreaking"
+    }
+  ],
+  "name": "slashblade_neomotions:switchaxe_prototype",
+  "properties": {
+    "attack_base": 5.0,
+    "max_damage": 550,
+    "root_combo": "slashblade_neomotions:switchaxe_axe",
+    "slash_art": "slashblade:drive_vertical"
+  },
+  "render": {
+    "model": "slashblade_neomotions:model/switchaxe_prototype.obj",
+    "summon_sword_color": 15251547,
+    "texture": "slashblade_neomotions:model/prototype_metal.png"
+  }
+}

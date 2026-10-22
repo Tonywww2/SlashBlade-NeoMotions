@@ -1,0 +1,168 @@
+{
+  "sources": [
+    {
+      "path": ".local/wilds/move-names/natives/stm/gamedesign/text/excel_action/actionguidedatanametext_wp00.msg.23",
+      "sha256": "330c5f3e66859d1cba53fc90d6834e57b87f885520a195967f4823c6f52edb89"
+    },
+    {
+      "path": ".local/wilds/move-names/natives/stm/gamedesign/text/excel_action/actionguidedatanametext_wp02.msg.23",
+      "sha256": "039de8b9f0dcb4e749fa7a477c1d4570da23ed140dbbc4c086bd376f70ee5a50"
+    }
+  ],
+  "names": [
+    {
+      "move": "gs_overhead",
+      "entry": "ActionGuideDataNameText_Wp00_m1673173760",
+      "guid": "2ce38465-461a-48a7-8492-3c3d98064e31",
+      "zh_cn": "直斩",
+      "en_us": "Overhead Slash"
+    },
+    {
+      "move": "gs_sweep",
+      "entry": "ActionGuideDataNameText_Wp00_225253952",
+      "guid": "6dd877b7-8cda-4572-b86f-42d40de8e77a",
+      "zh_cn": "横扫斩",
+      "en_us": "Wide Slash"
+    },
+    {
+      "move": "gs_rising",
+      "entry": "ActionGuideDataNameText_Wp00_146633456",
+      "guid": "21240f87-f608-4c0b-ae7f-d586c7222f77",
+      "zh_cn": "上捞斩",
+      "en_us": "Rising Slash"
+    },
+    {
+      "move": "gs_charged_slash",
+      "entry": "ActionGuideDataNameText_Wp00_971250048",
+      "guid": "98ac8c3b-3f94-4e1f-b23a-3cff11c09720",
+      "zh_cn": "蓄力斩",
+      "en_us": "Charged Slash"
+    },
+    {
+      "move": "gs_strong_slash",
+      "entry": "ActionGuideDataNameText_Wp00_m1769468672",
+      "guid": "9f6db71b-0a7a-4278-96d1-66cb3935208e",
+      "zh_cn": "强蓄力斩",
+      "en_us": "Strong Charged Slash"
+    },
+    {
+      "move": "gs_true_slash",
+      "entry": "ActionGuideDataNameText_Wp00_2095506176",
+      "guid": "c29c4c16-8dac-426f-894a-8952f1866f78",
+      "zh_cn": "真·蓄力斩",
+      "en_us": "True Charged Slash"
+    },
+    {
+      "move": "gs_strong_sweep",
+      "entry": "ActionGuideDataNameText_Wp00_1405301888",
+      "guid": "40723f6d-1334-49d1-ac2c-8534ed102c3a",
+      "zh_cn": "强力横扫斩",
+      "en_us": "Strong Wide Slash"
+    },
+    {
+      "move": "gs_leaping_sweep",
+      "entry": "ActionGuideDataNameText_Wp00_m101683424",
+      "guid": "701d9ff6-a884-42ce-9a8d-dd6ad2a2d5fd",
+      "zh_cn": "飞身跃入横扫斩",
+      "en_us": "Leaping Wide Slash"
+    },
+    {
+      "move": "gs_aerial",
+      "entry": "ActionGuideDataNameText_Wp00_1329235968",
+      "guid": "7839da79-df71-4727-a69c-d23e141a8ab2",
+      "zh_cn": "跳跃蓄力斩",
+      "en_us": "Jumping Charged Slash"
+    },
+    {
+      "move": "gs_landing",
+      "entry": "ActionGuideDataNameText_Wp00_1329235968",
+      "guid": "7839da79-df71-4727-a69c-d23e141a8ab2",
+      "zh_cn": "跳跃蓄力斩",
+      "en_us": "Jumping Charged Slash"
+    },
+    {
+      "move": "db_blade_cut",
+      "entry": "ActionGuideDataNameText_Wp02_1061310464",
+      "guid": "b6681439-7038-43db-b308-3007ed419ad5",
+      "zh_cn": "二连斩",
+      "en_us": "Double Slash"
+    },
+    {
+      "move": "db_sheath_cut",
+      "entry": "ActionGuideDataNameText_Wp02_1802004864",
+      "guid": "eb69803e-4025-42fd-b1de-2902842af513",
+      "zh_cn": "二连回斩",
+      "en_us": "Double Slash Return Stroke"
+    },
+    {
+      "move": "db_cross_cut",
+      "entry": "ActionGuideDataNameText_Wp02_144065008",
+      "guid": "977cd4e5-5869-4a5d-adac-159c1c1bbdcf",
+      "zh_cn": "车轮斩",
+      "en_us": "Circle Slash"
+    },
+    {
+      "move": "db_flurry",
+      "entry": "ActionGuideDataNameText_Wp02_m1698437888",
+      "guid": "dc286cd8-37a6-4e66-811b-501444e3691c",
+      "zh_cn": "鬼人连斩Ⅰ",
+      "en_us": "Demon Flurry I"
+    },
+    {
+      "move": "db_finisher",
+      "entry": "ActionGuideDataNameText_Wp02_m1092490368",
+      "guid": "4bca2594-adba-4ca2-99c5-ed7a465e2752",
+      "zh_cn": "鬼人六连斩",
+      "en_us": "Sixfold Demon Slash"
+    },
+    {
+      "move": "db_spin",
+      "entry": "ActionGuideDataNameText_Wp02_m1541920000",
+      "guid": "cc66eb65-d294-4d90-8666-d7b7ff7fc357",
+      "zh_cn": "回旋斩",
+      "en_us": "Roundslash"
+    },
+    {
+      "move": "db_dash",
+      "entry": "ActionGuideDataNameText_Wp02_927994752",
+      "guid": "e4efb163-69d4-43e9-bcc8-393ccde1fbf1",
+      "zh_cn": "挥斩",
+      "en_us": "Lunging Strike"
+    },
+    {
+      "move": "db_retreat",
+      "entry": "ActionGuideDataNameText_Wp02_m1497146240",
+      "guid": "2edae842-4c73-4418-b7fb-fbc81658e211",
+      "zh_cn": "上捞斩",
+      "en_us": "Rising Slash"
+    },
+    {
+      "move": "db_aerial",
+      "entry": "ActionGuideDataNameText_Wp02_995066176",
+      "guid": "deaa9c8b-02b1-4ddf-bd45-7d3e6660887a",
+      "zh_cn": "跳跃二连斩",
+      "en_us": "Jumping Doubleslash"
+    },
+    {
+      "move": "gs_tackle_1",
+      "entry": "ActionGuideDataNameText_Wp00_1652940800",
+      "guid": "3351662a-e694-467c-8eb1-c7393ab73b50",
+      "zh_cn": "冲撞攻击",
+      "en_us": "Tackle"
+    },
+    {
+      "move": "gs_tackle_2",
+      "entry": "ActionGuideDataNameText_Wp00_1652940800",
+      "guid": "3351662a-e694-467c-8eb1-c7393ab73b50",
+      "zh_cn": "冲撞攻击",
+      "en_us": "Tackle"
+    },
+    {
+      "move": "gs_tackle_3",
+      "entry": "ActionGuideDataNameText_Wp00_1652940800",
+      "guid": "3351662a-e694-467c-8eb1-c7393ab73b50",
+      "zh_cn": "冲撞攻击",
+      "en_us": "Tackle"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+natives/stm/gamedesign/text/excel_action/actionguidedatanametext_wp00.msg.23
+natives/stm/gamedesign/common/player/actionguide/actionguidedata_wp00name.user.3
+natives/stm/gamedesign/common/player/actionguide/actionguidedata_wp00.user.3
+natives/stm/gamedesign/text/excel_action/actionguidedatanametext_wp02.msg.23
+natives/stm/gamedesign/common/player/actionguide/actionguidedata_wp02name.user.3
+natives/stm/gamedesign/common/player/actionguide/actionguidedata_wp02.user.3

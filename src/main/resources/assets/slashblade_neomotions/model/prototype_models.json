@@ -1,0 +1,38 @@
+{
+  "greatsword_prototype": {
+    "blade": 1918,
+    "sheath": 428,
+    "blade_damaged": 878,
+    "blade_fragment": 26,
+    "item_blade": 1918,
+    "item_bladens": 1918,
+    "item_damaged": 878
+  },
+  "dualblade_prototype": {
+    "blade": 1430,
+    "sheath": 1476,
+    "blade_damaged": 774,
+    "blade_fragment": 26,
+    "item_blade": 2906,
+    "item_bladens": 1430,
+    "item_damaged": 2250
+  },
+  "switchaxe_prototype": {
+    "blade_core": 1306,
+    "blade_core_damaged": 1306,
+    "sheath": 1038,
+    "blade_edge": 734,
+    "blade_edge_damaged": 44,
+    "blade_fragment": 26,
+    "sheath_damaged": 44,
+    "sheath_luminous": 20,
+    "blade_edge_luminous": 20,
+    "sheath_damaged_luminous": 20,
+    "blade_edge_damaged_luminous": 20,
+    "blade": 3078,
+    "blade_damaged": 1394,
+    "item_blade": 3078,
+    "item_bladens": 3078,
+    "item_damaged": 1394
+  }
+}

@@ -1,0 +1,12 @@
+natives/stm/motion/player/weapon/wp00/wp00_00/wp00_00_mct.user.3
+natives/stm/motion/player/weapon/wp00/wp00_00/wp00_00_mex.user.3
+natives/stm/motion/player/weapon/wp00/wp00_mcb.user.3
+natives/stm/motion/player/weapon/wp00/wp00_meb.user.3
+natives/stm/motion/player/weapon/wp00/wp00_tree/wp00_tree_mct.user.3
+natives/stm/motion/player/weapon/wp00/wp00_tree/wp00_tree_mex.user.3
+natives/stm/motion/player/weapon/wp02/wp02_00/wp02_00_mct.user.3
+natives/stm/motion/player/weapon/wp02/wp02_00/wp02_00_mex.user.3
+natives/stm/motion/player/weapon/wp02/wp02_mcb.user.3
+natives/stm/motion/player/weapon/wp02/wp02_meb.user.3
+natives/stm/motion/player/weapon/wp02/wp02_tree/wp02_tree_mct.user.3
+natives/stm/motion/player/weapon/wp02/wp02_tree/wp02_tree_mex.user.3

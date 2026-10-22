@@ -1,0 +1,70 @@
+# Gradle / Stonecutter / compiled output
+.gradle/
+.stonecutter/
+**/build/
+**/bin/
+**/out/
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# Development game instances, worlds, logs and crash reports
+**/run/
+**/runs/
+**/logs/
+**/crash-reports/
+*.log
+hs_err_pid*
+replay_pid*
+
+# Local game extraction, upstream checkouts and third-party research tools
+.local/
+*.pak
+*.motlist.*
+*.mot.932
+*.user.3
+*.msg.23
+*.mesh.*
+*.tex.*
+
+# Keep Java datagen output under src/generated; discard only its cache
+src/generated/**/.cache/
+
+# Python tooling and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editor / IDE machine-specific settings
+.idea/
+.vscode/
+.eclipse/
+.settings/
+.classpath
+.project
+.factorypath
+*.iml
+*.ipr
+*.iws
+*.code-workspace
+*.swp
+*.swo
+*~
+
+# Local environment files
+.env
+.env.*
+!.env.example
+!.env.sample
+local.properties
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Production OBJ / VMD / PNG assets and the Gradle wrapper belong in Git.
